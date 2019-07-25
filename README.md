@@ -1,2 +1,4 @@
-# Red
-Serie survival 1.13.2
+# Survicracks
+
+Una serie survival donde pelearemos contra monstruos sobrevivir y construir :3
+
